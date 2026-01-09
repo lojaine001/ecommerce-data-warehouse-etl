@@ -16,9 +16,6 @@ Système décisionnel complet pour l'analyse des achats en ligne, incluant :
 
 **Données :** 50 commandes, 25 produits, 20 clients
 
-## 🏗️ Architecture
-
-![Architecture](docs/images/architecture.png)
 
 ### Schéma en étoile
 - **Table de faits :** Faits_Commandes (50 lignes)
