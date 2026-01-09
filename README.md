@@ -103,12 +103,4 @@ JSON → Calculs (PrixUnitaire, ChiffreAffaires, DateID) → Table de faits
 ⭐ Si ce projet vous aide, n'hésitez pas à mettre une étoile !
 ```
 
----
 
-
-
-
-
-# OS files
-.DS_Store
-Thumbs.db
